@@ -1,2 +1,2 @@
 # Guajira
-https://life.desgard.com
+http://life.desgard.com
